@@ -22,6 +22,7 @@ We are here to help you to solve your problems :)
 ![Twitch Stats](https://img.shields.io/twitch/status/examid6540?color=purple&style=for-the-badge)
 
 ## Repository Stats:
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Hamidalavi.visitor-badge)
 ![Size](https://img.shields.io/badge/size-1kB-blue)
 ![CheckPass](https://shields.io/badge/checks-passing-brightgreen)
 ![DiscordOnline](https://img.shields.io/discord/852100868303749130?color=purple&label=discord%20chat)
