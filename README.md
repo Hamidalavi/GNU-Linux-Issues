@@ -23,7 +23,7 @@ We are here to help you to solve your problems :)
 
 ## Repository Stats:
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Hamidalavi.visitor-badge)
-![Size](https://img.shields.io/badge/size-1kB-blue)
+![Size](https://img.shields.io/badge/size-7.93kB-blue)
 ![CheckPass](https://shields.io/badge/checks-passing-brightgreen)
 ![DiscordOnline](https://img.shields.io/discord/852100868303749130?color=purple&label=discord%20chat)
 ![TotalDownloads](https://img.shields.io/github/downloads/Hamidalavi/CSS-step-by-step/total)
